@@ -1,0 +1,80 @@
+{
+  "messages": [
+    {
+      "text": "Witaj!",
+      "name": "chatbot",
+      "id": "abcd01"
+    },
+    {
+      "text": "Teraz możesz czatować!📲",
+      "name": "chatbot",
+      "id": "hijk03"
+    },
+    {
+      "text": "dfsfsdfs",
+      "name": "czatownik",
+      "id": "F5B_FpLD8TqnSxvDAAAB0.4163608455239538",
+      "socketID": "F5B_FpLD8TqnSxvDAAAB"
+    },
+    {
+      "text": "sdfdsfsd",
+      "name": "czatownik",
+      "id": "DRiQVn5be1zD42PRAAAD0.12706382514001358",
+      "socketID": "DRiQVn5be1zD42PRAAAD"
+    },
+    {
+      "text": "dggdfg",
+      "name": "karolizdebski",
+      "id": "qEz8mxyhmhRp3z7tAAAK0.7175417802932096",
+      "socketID": "qEz8mxyhmhRp3z7tAAAK"
+    },
+    {
+      "text": "gdfg",
+      "name": "karolizdebski",
+      "id": "OFeHb72Sm0rEoDQPAAAF0.8271319474970862",
+      "socketID": "OFeHb72Sm0rEoDQPAAAF"
+    },
+    {
+      "text": "fgdgdfg",
+      "name": "karolizdebski",
+      "id": "8ff1VswhSIt_0M9AAAAB0.23301955237921312",
+      "socketID": "8ff1VswhSIt_0M9AAAAB"
+    },
+    {
+      "text": "dfdfsdfsdfsdf",
+      "name": "czatownik",
+      "id": "lFvzzSTackDn88-8AAAH0.24478654305930414",
+      "socketID": "lFvzzSTackDn88-8AAAH"
+    },
+    {
+      "text": "nhfgvn",
+      "name": "karolizdebski",
+      "id": "7ovzpqZAuUR_s5fmAAAF0.6990572465905516",
+      "socketID": "7ovzpqZAuUR_s5fmAAAF"
+    },
+    {
+      "text": "fdfdsd",
+      "name": "tomizdebski",
+      "id": "eeOEUsnI-tT3_em3AAAf0.6903120765570792",
+      "socketID": "eeOEUsnI-tT3_em3AAAf"
+    },
+    {
+      "text": "jghjghj",
+      "name": "czatownik",
+      "id": "3ONq0DbAHGBHgLjNAAAF0.8486859482110165",
+      "socketID": "3ONq0DbAHGBHgLjNAAAF"
+    },
+    {
+      "text": "hjghjgh",
+      "name": "czatownik",
+      "id": "TLkk3tDyMyVFUZm9AAAF0.1615642272988722",
+      "socketID": "TLkk3tDyMyVFUZm9AAAF"
+    },
+    {
+      "text": "gjhhg",
+      "name": "tomizdebski",
+      "id": "-zgs2Pt_FVlIsQ3SAAAD0.1617111138653049",
+      "socketID": "-zgs2Pt_FVlIsQ3SAAAD"
+    }
+  ]
+}
