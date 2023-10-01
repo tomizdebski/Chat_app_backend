@@ -15,7 +15,8 @@ const messagesData = JSON.parse(rawData);
 
 const socketIO = require("socket.io")(http, {
   cors: {
-    origin: process.env.URL_SOCKET,
+    origin: "*",
+    //origin: process.env.URL_SOCKET,
   },
 });
 
